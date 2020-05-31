@@ -1,14 +1,16 @@
 ---
 layout: page
-title: Bootstrap 4 Github Pages
+title: Stephen Jackson's website
 ---
 
-A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
+A testing and learning environment where I can figure some stuff out.
 
-* A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
-* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
-* Full support of Bootstrap's JavaScript plugins.
-* Supports all features of Github Pages and Jekyll.
+Things to do:
+
+* Figure out how to change the colors of the header or navigation bar.
+* Find out how to put columns on the side of the site.
+* Create multiple pages and link them, ie about, login, blog etc.
+* Upload pictures and logos for the site.
 
 ## Setup Guide
 
